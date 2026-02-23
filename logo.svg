@@ -4,9 +4,13 @@
 <svg
    version="1.1"
    id="svg1"
-   width="56.900002"
-   height="56.900002"
-   viewBox="0 0 569.00002 569.00002"
+   width="32"
+   height="32"
+   viewBox="0 0 561.40351 561.40351"
+   sodipodi:docname="logoproste.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -15,7 +19,28 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4323374"
+     inkscape:cx="284.84908"
+     inkscape:cy="5.2361963"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1"
+     inkscape:clip-to-page="false" />
   <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
      id="g1">
     <image
        width="569"
